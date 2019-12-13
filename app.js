@@ -1,4 +1,4 @@
 console.log('test')
 function add(){
-console.log()
+console.log(ihgufuyfuyfufuyfuyfuyfyufyufuyfuy)
 };
